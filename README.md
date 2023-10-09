@@ -1,3 +1,3 @@
 # Demo
 
-some details of my app
+Some details of my app!
